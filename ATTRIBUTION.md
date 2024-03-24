@@ -24,6 +24,28 @@ All images used in this project were acquired under the [*CC0 1.0 Universal*][UR
 
 - [GIMP][URL-GIMP] - Image editing
 
+---
+
+- <details><summary> <i>Some useful links for finding CC0 images</i> </summary>
+
+    - [Pixabay](https://pixabay.com/photos/search/person/?order=latest&pagi=294) (uploads [before 2019](https://pixabay.com/service/terms/))
+    - [flickr](https://www.flickr.com/search/?q=person&l=9)
+    - [nappy](https://nappy.co/category/people)
+    - [StockSnap](https://stocksnap.io/search/people)
+    - [ISO Republic](https://isorepublic.com/media-category/people/)
+    - [wikimedia Media Search](https://commons.wikimedia.org/wiki/Special:MediaSearch?title=Special%3AMediaSearch&type=image&search=%22This+file+is+made+available+under+the+Creative+Commons+CC0%22+%22consented+to+publication%22)
+    - [LibreShot](https://libreshot.com/free-images/people/)
+    - [Life of pix](https://www.lifeofpix.com/galleries/people/)
+    - [NegativeSpace](https://negativespace.co/category/people/)
+    - [PixaHive](https://pixahive.com/?s=people)
+    - [ShotStash](https://shotstash.com/media-category/people/)
+    - [SnappyGoat](https://snappygoat.com/s/?q=person)
+    - [SplitShire](https://www.splitshire.com/category/people/)
+    - [Startup Stock Photos](https://startupstockphotos.com/photos/category/people/)
+    - [Skitterphoto](https://skitterphoto.com/photos/categories/people)
+
+  </details>
+
 
 
 
