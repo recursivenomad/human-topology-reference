@@ -15,6 +15,11 @@ Project created by Peter S. Hollander in 2024 and made freely available under th
 
 All images used in this project were acquired under the [*CC0 1.0 Universal*][URL-CC0] public domain dedication.
 
+> *This selection of reference images is based solely on the ability to study the diverse topology of the human body.*
+*Complex details surrounding each image have not been interrogated, and as such the use of an image does not reflect an endorsement of the photographer nor of the subject.*
+
+> ***In the event a photograph of you / taken by you is referenced in this project and you would like to request its removal, or if you otherwise object to the use of an image, please [open a public issue][URL-New-Issue] or email me privately via <recursivenomad@protonmail.com> to request removal of the image from this project.***
+
 &nbsp;
 
 
@@ -50,5 +55,7 @@ All images used in this project were acquired under the [*CC0 1.0 Universal*][UR
 
 
 [URL-CC0]: <https://creativecommons.org/publicdomain/zero/1.0/>
+
+[URL-New-Issue]: <https://github.com/recursivenomad/human-topology-reference/issues/new>
 
 [URL-GIMP]: <https://www.gimp.org/>

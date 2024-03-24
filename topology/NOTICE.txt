@@ -1,0 +1,17 @@
+This selection of public domain (or equivalent) reference images is based solely
+on the ability to study the diverse topology of the human body.  Complex details
+surrounding each image have not been interrogated, and as such the use of an
+image does not reflect an endorsement of the photographer nor of the subject.
+
+
+IN THE EVENT A PHOTOGRAPH OF YOU / TAKEN BY YOU IS REFERENCED IN THIS PROJECT
+AND YOU WOULD LIKE TO REQUEST ITS REMOVAL, OR IF YOU OTHERWISE OBJECT TO THE
+USE OF AN IMAGE, PLEASE OPEN A PUBLIC ISSUE:
+
+  <https://github.com/recursivenomad/human-topology-reference/issues/new>
+
+OR EMAIL ME PRIVATELY VIA:
+
+  <recursivenomad@protonmail.com>
+
+TO REQUEST REMOVAL OF THE IMAGE FROM THIS PROJECT.
