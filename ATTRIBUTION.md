@@ -10,6 +10,13 @@ Project created by Peter S. Hollander in 2024 and made freely available under th
 *Contact: <recursivenomad@protonmail.com>*  
 *Repository: <https://github.com/recursivenomad/human-topology-reference/>*
 
+&nbsp;
+
+
+
+
+# Tools utilized
+
 
 
 
