@@ -17,7 +17,11 @@ Project created by Peter S. Hollander in 2024 and made freely available under th
 
 # Tools utilized
 
+- [GIMP][URL-GIMP] - Image editing
+
 
 
 
 [URL-CC0]: <https://creativecommons.org/publicdomain/zero/1.0/>
+
+[URL-GIMP]: <https://www.gimp.org/>
