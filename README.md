@@ -34,6 +34,10 @@ If you identify a lapse in universal topology in the [downstream project][URL-ba
 ***Further reading***
 =====================
 
+- The effort to represent distributed diversity of human ethnicities throughout the reference images was informed in part by the major ethno-linguistic assemblages/clades described in this open-access paper:
+  
+    > Duda, P. & Zrzavý, J. Human population history revealed by a supertree approach. Scientific Reports, 6, 29890 (2016). doi: https://doi.org/10.1038/srep29890
+
 &nbsp;
 
 
