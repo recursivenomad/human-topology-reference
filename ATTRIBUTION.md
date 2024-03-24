@@ -20,6 +20,8 @@ All images used in this project were acquired under the [*CC0 1.0 Universal*][UR
 
 > ***In the event a photograph of you / taken by you is referenced in this project and you would like to request its removal, or if you otherwise object to the use of an image, please [open a public issue][URL-New-Issue] or email me privately via <recursivenomad@protonmail.com> to request removal of the image from this project.***
 
+Each image source is individually linked in the foldouts below:
+
 &nbsp;
 
 
