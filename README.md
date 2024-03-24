@@ -38,6 +38,10 @@ If you identify a lapse in universal topology in the [downstream project][URL-ba
   
     > Duda, P. & Zrzavý, J. Human population history revealed by a supertree approach. Scientific Reports, 6, 29890 (2016). doi: https://doi.org/10.1038/srep29890
 
+- The range of expressions distributed throughout the facial reference images was informed in part by the facial expressions discussed in this open-access paper:
+
+    > Du, S. & Martinez, A. Compound facial expressions of emotion: from basic research to clinical applications. Dialogues in Clinical Neuroscience, 17(4), 443-455 (2015). doi: https://doi.org/10.31887/DCNS.2015.17.4/sdu
+
 &nbsp;
 
 
