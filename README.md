@@ -7,6 +7,16 @@
 
 
 
+***Purpose and scope***
+=======================
+
+The purpose of this reference image set is to inform the development of a topologically-universal human 3D model in the [biomechanical-basemesh][URL-basemesh] project, emphasizing accurate deformations and edge flow.
+Due to its size, this repository is hosted separately from the downstream project and included as a submodule within it.
+
+&nbsp;
+
+
+
 ***License / Access***
 ======================
 
