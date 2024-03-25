@@ -31,6 +31,7 @@ Each image source is individually linked in the foldouts below:
     - [004.png](./topology/face/images/004.png) modified from ["People in Singapore"](https://www.flickr.com/photos/missbossy/52841039857/) by [missbossy](https://www.flickr.com/people/missbossy/)
     - [005.png](./topology/face/images/005.png) modified from [photo](https://stocksnap.io/photo/GSS62FLFJO) by [Ayo Ogunseinde](https://stocksnap.io/author/40737)
     - [006.png](./topology/face/images/006.png) modified from [photo](https://pixabay.com/photos/2219380/) by [Herbert Bieser](https://pixabay.com/users/343207/)
+    - [007.png](./topology/face/images/007.png) modified from [photo](https://pixabay.com/photos/1870016/) by [Pexels](https://pixabay.com/users/2286921/)
 
 </details>
 
