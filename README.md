@@ -7,11 +7,18 @@
 
 
 
-***Purpose and scope***
-=======================
+***Purpose, scope, and usage***
+===============================
 
 The purpose of this reference image set is to inform the development of a topologically-universal human 3D model in the [biomechanical-basemesh][URL-basemesh] project, emphasizing accurate deformations and edge flow.
 Due to its size, this repository is hosted separately from the downstream project and included as a submodule within it.
+
+If you wish to view and manipulate the topological annotations with their reference images at full resolution, you'll need to open the SVG files for that topological region (for example, `topology/face/annotations/001.svg`) in a compatible viewer, such as [Inkscape][URL-Inkscape].
+Please note that these SVG files reference assets using relative paths, so everything within the `topology/` directory must be kept together to maintain functionality.
+
+If you are simply looking for the unmarked reference images, you can find those in each topological region's `images/` directory; for example, `topology/face/images/`
+
+Baked-down portable JPGs of the topologically annotated reference images will be available once annotation of the first image set is complete.
 
 &nbsp;
 
@@ -66,3 +73,5 @@ This work is made freely available under the [*CC0 1.0 Universal*][URL-CC0] publ
 
 [URL-basemesh]: <https://gitlab.com/recursivenomad/biomechanical-basemesh/>
 [URL-New-Issue]: <https://gitlab.com/recursivenomad/biomechanical-basemesh/-/issues/new>
+
+[URL-Inkscape]: <https://inkscape.org/release/inkscape-1.3.2/>
