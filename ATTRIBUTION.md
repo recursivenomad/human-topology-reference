@@ -65,6 +65,7 @@ Each image source is individually linked in the foldouts below:
     - [038.png](./topology/face/images/038.png) modified from [photo](https://pixabay.com/photos/2294802/) by [Engin Akyurt](https://pixabay.com/users/3656355/)
     - [039.png](./topology/face/images/039.png) modified from [photo](https://pixabay.com/photos/3899177/) by [Robert Prax](https://pixabay.com/users/752910/)
     - [040.png](./topology/face/images/040.png) modified from [photo](https://stocksnap.io/photo/BPU7SYZIAV) by [Candace McDaniel](https://stocksnap.io/author/candacemcdaniel)
+    - [041.png](./topology/face/images/041.png) modified from [photo](https://pixabay.com/photos/113728/) by [Nydegger René](https://pixabay.com/users/36110/)
 
 </details>
 
