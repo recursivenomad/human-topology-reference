@@ -25,6 +25,7 @@ Each image source is individually linked in the foldouts below:
 <details><summary> Face topology reference sources </summary>
 
   - *The following files are within the directory `topology/face/images/`*
+    - [001.png](./topology/face/images/001.png) modified from ["Male portrait"](https://nappy.co/photo/695/) by [Tolu Bamwo](https://nappy.co/RootedColors)
 
 </details>
 
