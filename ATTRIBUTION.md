@@ -59,6 +59,7 @@ Each image source is individually linked in the foldouts below:
     - [032.png](./topology/face/images/032.png) modified from [photo](https://pixabay.com/photos/2681488/) by [Robin Higgins](https://pixabay.com/users/1321953/)
     - [033.png](./topology/face/images/033.png) modified from [photo](https://pixabay.com/photos/1320103/) by [FotoshopTofs](https://pixabay.com/users/2171839/)
     - [034.png](./topology/face/images/034.png) modified from ["HDIPL-888"](https://www.flickr.com/photos/198826134@N02/53087204205/) by [Human Development Institute](https://www.flickr.com/people/198826134@N02/)
+    - [035.png](./topology/face/images/035.png) modified from ["3N9A3435s"](https://www.flickr.com/photos/sendansullivan/53156346356/) by [Senator Sullivan](https://www.flickr.com/people/sendansullivan/)
 
 </details>
 
