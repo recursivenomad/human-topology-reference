@@ -32,6 +32,7 @@ Each image source is individually linked in the foldouts below:
     - [005.png](./topology/face/images/005.png) modified from [photo](https://stocksnap.io/photo/GSS62FLFJO) by [Ayo Ogunseinde](https://stocksnap.io/author/40737)
     - [006.png](./topology/face/images/006.png) modified from [photo](https://pixabay.com/photos/2219380/) by [Herbert Bieser](https://pixabay.com/users/343207/)
     - [007.png](./topology/face/images/007.png) modified from [photo](https://pixabay.com/photos/1870016/) by [Pexels](https://pixabay.com/users/2286921/)
+    - [008.png](./topology/face/images/008.png) modified from [photo](https://pixabay.com/photos/2605197/) by [Engin Akyurt](https://pixabay.com/users/3656355/)
 
 </details>
 
