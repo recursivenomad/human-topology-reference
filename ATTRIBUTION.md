@@ -27,6 +27,7 @@ Each image source is individually linked in the foldouts below:
   - *The following files are within the directory `topology/face/images/`*
     - [001.png](./topology/face/images/001.png) modified from ["Male portrait"](https://nappy.co/photo/695/) by [Tolu Bamwo](https://nappy.co/RootedColors)
     - [002.png](./topology/face/images/002.png) modified from [photo](https://pixabay.com/photos/60755/) by [Amber Clay](https://pixabay.com/users/10439/)
+    - [003.png](./topology/face/images/003.png) modified from ["HDIPL-969"](https://www.flickr.com/photos/198826134@N02/53087208530/) by [Human Development Institute](https://www.flickr.com/people/198826134@N02/)
 
 </details>
 
