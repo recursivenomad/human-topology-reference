@@ -48,6 +48,7 @@ Each image source is individually linked in the foldouts below:
     - [021.png](./topology/face/images/021.png) modified from ["The smile of helpfulness [...]"](https://www.flickr.com/photos/wonderlane/9129242843/) by [Wonderlane](https://www.flickr.com/people/wonderlane/)
     - [022.png](./topology/face/images/022.png) modified from [photo](https://pixabay.com/photos/2792682/) by [Jairo Zambrano](https://pixabay.com/users/6554126/)
     - [023.png](./topology/face/images/023.png) modified from [photo](https://pixabay.com/photos/338321/) by [Taygun Özbek](https://pixabay.com/users/244434/)
+    - [024.png](./topology/face/images/024.png) modified from [photo](https://pixabay.com/photos/3162228/) by [Sonam Prajapati](https://pixabay.com/users/7296816/)
 
 </details>
 
