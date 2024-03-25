@@ -35,6 +35,7 @@ Each image source is individually linked in the foldouts below:
     - [008.png](./topology/face/images/008.png) modified from [photo](https://pixabay.com/photos/2605197/) by [Engin Akyurt](https://pixabay.com/users/3656355/)
     - [009.png](./topology/face/images/009.png) modified from [photo](https://pixabay.com/photos/344890/) by [D Mz](https://pixabay.com/users/254927/)
     - [010.png](./topology/face/images/010.png) modified from [photo](https://pixabay.com/photos/3193055/) by [Yuri Puchkov](https://pixabay.com/users/8223028/)
+    - [011.png](./topology/face/images/011.png) modified from ["Wayuu woman with sad face in the market buying"](https://commons.wikimedia.org/wiki/File:Wayuu_woman_with_sad_face_in_the_market_buying.jpg) by [Wilfredo Rodríguez](https://commons.wikimedia.org/wiki/User:Wilfredor)
 
 </details>
 
