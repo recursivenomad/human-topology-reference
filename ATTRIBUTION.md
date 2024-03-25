@@ -22,6 +22,12 @@ All images used in this project were acquired under the [*CC0 1.0 Universal*][UR
 
 Each image source is individually linked in the foldouts below:
 
+<details><summary> Face topology reference sources </summary>
+
+  - *The following files are within the directory `topology/face/images/`*
+
+</details>
+
 &nbsp;
 
 
