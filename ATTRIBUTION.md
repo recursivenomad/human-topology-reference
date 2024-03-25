@@ -30,6 +30,7 @@ Each image source is individually linked in the foldouts below:
     - [003.png](./topology/face/images/003.png) modified from ["HDIPL-969"](https://www.flickr.com/photos/198826134@N02/53087208530/) by [Human Development Institute](https://www.flickr.com/people/198826134@N02/)
     - [004.png](./topology/face/images/004.png) modified from ["People in Singapore"](https://www.flickr.com/photos/missbossy/52841039857/) by [missbossy](https://www.flickr.com/people/missbossy/)
     - [005.png](./topology/face/images/005.png) modified from [photo](https://stocksnap.io/photo/GSS62FLFJO) by [Ayo Ogunseinde](https://stocksnap.io/author/40737)
+    - [006.png](./topology/face/images/006.png) modified from [photo](https://pixabay.com/photos/2219380/) by [Herbert Bieser](https://pixabay.com/users/343207/)
 
 </details>
 
