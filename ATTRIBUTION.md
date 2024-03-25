@@ -38,6 +38,7 @@ Each image source is individually linked in the foldouts below:
     - [011.png](./topology/face/images/011.png) modified from ["Wayuu woman with sad face in the market buying"](https://commons.wikimedia.org/wiki/File:Wayuu_woman_with_sad_face_in_the_market_buying.jpg) by [Wilfredo Rodríguez](https://commons.wikimedia.org/wiki/User:Wilfredor)
     - [012.png](./topology/face/images/012.png) modified from [photo](https://pixabay.com/photos/2528091/) by [Tim Lin](https://pixabay.com/users/5736023/)
     - [013.png](./topology/face/images/013.png) modified from ["Daughters of God"](https://www.flickr.com/photos/missbossy/52841589546/) by [missbossy](https://www.flickr.com/people/missbossy/)
+    - [014.png](./topology/face/images/014.png) modified from [photo](https://pixabay.com/photos/449409/) by [383961](https://pixabay.com/users/383961/)
 
 </details>
 
