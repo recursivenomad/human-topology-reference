@@ -54,6 +54,7 @@ Each image source is individually linked in the foldouts below:
     - [027.png](./topology/face/images/027.png) modified from ["Woman portrait"](https://nappy.co/photo/418/) by [Tolu Bamwo](https://nappy.co/Phabstudio)
     - [028.png](./topology/face/images/028.png) modified from [photo](https://pixabay.com/photos/2542257/) by [Christopher Ross](https://pixabay.com/users/3173583/)
     - [029.png](./topology/face/images/029.png) modified from [photo](https://pixabay.com/photos/603055/) by [stokpic](https://pixabay.com/users/692575/)
+    - [030.png](./topology/face/images/030.png) modified from [photo](https://pixabay.com/photos/3414915/) by [modelnikosmith](https://pixabay.com/users/9046662/)
 
 </details>
 
