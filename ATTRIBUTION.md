@@ -51,6 +51,7 @@ Each image source is individually linked in the foldouts below:
     - [024.png](./topology/face/images/024.png) modified from [photo](https://pixabay.com/photos/3162228/) by [Sonam Prajapati](https://pixabay.com/users/7296816/)
     - [025.png](./topology/face/images/025.png) modified from ["HDIPL-192"](https://www.flickr.com/photos/198826134@N02/53086838193/) by [Human Development Institute](https://www.flickr.com/people/198826134@N02/)
     - [026.png](./topology/face/images/026.png) modified from [photo](https://pixabay.com/photos/750781/) by [Michelle Raponi](https://pixabay.com/users/165491/)
+    - [027.png](./topology/face/images/027.png) modified from ["Woman portrait"](https://nappy.co/photo/418/) by [Tolu Bamwo](https://nappy.co/Phabstudio)
 
 </details>
 
