@@ -7,6 +7,11 @@ svg {
   stroke-width: 0.1;
 }
 
+text {
+  fill: none;
+  stroke: none;
+}
+
 #macro-structure {
   stroke: green;
   stroke-width: 0.5;
