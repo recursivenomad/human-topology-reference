@@ -1,0 +1,33 @@
+svg {
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-opacity: 1;
+  stroke: black;
+  stroke-width: 0.1;
+}
+
+text {
+  fill: none;
+  stroke: none;
+}
+
+#macro-structure {
+  stroke: green;
+  stroke-width: 0.5;
+}
+
+#dynamic-creases {
+  stroke: red;
+  stroke-width: 0.25;
+}
+
+#static-creases {
+  stroke: darkcyan;
+  stroke-width: 0.1;
+}
+
+#micro-texture {
+  stroke: magenta;
+  stroke-width: 0.05;
+}

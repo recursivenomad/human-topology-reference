@@ -81,6 +81,7 @@ Each image source is individually linked in the foldouts below:
 # Tools utilized
 
 - [GIMP][URL-GIMP] - Image editing
+- [Inkscape][URL-Inkscape] - Topology markup
 
 ---
 
@@ -112,3 +113,4 @@ Each image source is individually linked in the foldouts below:
 [URL-New-Issue]: <https://github.com/recursivenomad/human-topology-reference/issues/new>
 
 [URL-GIMP]: <https://www.gimp.org/>
+[URL-Inkscape]: <https://inkscape.org/>
