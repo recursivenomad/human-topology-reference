@@ -15,7 +15,7 @@ Due to its size, this repository is hosted separately from the downstream projec
 
 If you wish to view and manipulate the topological annotations with their reference images at full resolution, you'll need to open the SVG files for that topological region (for example, `topology/face/annotations/001.svg`) in a compatible viewer, such as [Inkscape][URL-Inkscape].
 Please note that these SVG files reference assets using relative paths, so everything within the `topology/` directory must be kept together to maintain functionality.
-And although convenient for viewing content online, GitHub's native SVG renderer appears to not render external assets, so viewing these files directly on GitHub is greatly limited and not recommended.
+And although convenient for viewing content online, GitHub's native SVG renderer appears to not render external assets; so viewing these files directly on GitHub is greatly limited and not recommended.
 
 If you are simply looking for the unmarked reference images, you can find those in each topological region's `images/` directory; for example, `topology/face/images/`
 
