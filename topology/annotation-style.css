@@ -12,22 +12,24 @@ text {
   stroke: none;
 }
 
+/* Human skin is roughly lch hue 30-60; eg. oklab(82%, 0.071, 0.071) */
+
 #macro-structure {
-  stroke: green;
-  stroke-width: 0.5;
+  stroke: #ddb1f1;  /* oklch(82%, 0.1, 315); /* oklab(82%, 0.071, -0.071); */
+  stroke-width: 0.225;
 }
 
 #dynamic-creases {
-  stroke: red;
-  stroke-width: 0.25;
+  stroke: #74dac6;  /* oklch(82%, 0.1, 180); /* oklab(82%, -0.1, 0); */
+  stroke-width: 0.3;
 }
 
 #static-creases {
-  stroke: darkcyan;
-  stroke-width: 0.1;
+  stroke: #6dd6e8;  /* oklch(82%, 0.1, 210); /* oklab(82%, -0.087, -0.05); */
+  stroke-width: 0.15;
 }
 
 #micro-texture {
-  stroke: magenta;
-  stroke-width: 0.05;
+  stroke: #86cdff;  /* oklch(82%, 0.1, 240); /* oklab(82%, -0.05, -0.087); */
+  stroke-width: 0.075;
 }
